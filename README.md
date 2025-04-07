@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **himanshu.230101059@iiitbh.ac.in**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1C_g9-nYPMGgi_hyv8S5VGV9jPIvfy8yxpuCvrc8Xf28/edit?tab=t.0)
+- 📄 Know about my experiences [Open Resume](https://drive.google.com/drive/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
