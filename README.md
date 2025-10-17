@@ -12,10 +12,11 @@
 ---
 
 ### 🌐 Connect with me:
-https://codeforces.com/profile/ht976648
-https://leetcode.com/u/HimanshuTiwari206123/
-https://codeforces.com/profile/ht97648
-https://www.linkedin.com/in/himanshu-tiwari-97a738291/
+- [Codeforces — ht976648](https://codeforces.com/profile/ht976648)
+- [Codeforces — ht97648](https://codeforces.com/profile/ht97648)  <!-- looks similar to the one above; keep if intentional -->
+- [LeetCode — HimanshuTiwari206123](https://leetcode.com/u/HimanshuTiwari206123/)
+- [LinkedIn — Himanshu Tiwari](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
+
 
 ### ⚒️ Languages and Tools:
 
