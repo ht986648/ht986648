@@ -12,7 +12,10 @@
 ---
 
 ### 🌐 Connect with me:
-
+https://codeforces.com/profile/ht976648
+https://leetcode.com/u/HimanshuTiwari206123/
+https://codeforces.com/profile/ht97648
+https://www.linkedin.com/in/himanshu-tiwari-97a738291/
 
 ### ⚒️ Languages and Tools:
 
