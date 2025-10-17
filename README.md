@@ -13,15 +13,6 @@
 
 ### 🌐 Connect with me:
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
-- 💻 [GitHub](https://github.com/ht986648)
-- 
-- 🌐 [Portfolio Website](https://portfolio-jet-pi-55.vercel.app/)
-
----
-
-
----
 
 ### ⚒️ Languages and Tools:
 
