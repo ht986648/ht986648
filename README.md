@@ -15,8 +15,7 @@
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
 - 💻 [GitHub](https://github.com/ht986648)
-- 🧠 [LeetCode](https://leetcode.com/u/HimanshuTiwari206123/)
-- 🏁 [Codeforces](https://codeforces.com/profile/ht976648)
+- 
 - 🌐 [Portfolio Website](https://portfolio-jet-pi-55.vercel.app/)
 
 ---
