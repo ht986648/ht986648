@@ -13,7 +13,7 @@
 
 ### 🌐 Connect with me:
 - [Portfolio](https://portfolio-jet-pi-55.vercel.app/)
-- [Codeforces — ht976648](https://codeforces.com/profile/ht976648)
+- [Codeforces — ht976648](https://codeforces.com/profile/ht)
 - [LeetCode — HimanshuTiwari206123](https://leetcode.com/u/HimanshuTiwari206123/)
 - [LinkedIn — Himanshu Tiwari](https://www.linkedin.com/in/himanshu-tiwari-97a738291/)
 
